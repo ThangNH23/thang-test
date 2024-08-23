@@ -36,7 +36,7 @@ const Login = () => {
                         </div>
 
                         <div className='password form-control'>
-                            <input className="input-form" type='number' name='password' placeholder='비밀번호'></input>
+                            <input className="input-form" type='text' name='password' placeholder='비밀번호'></input>
                         </div>
 
                         <div className='register'>
