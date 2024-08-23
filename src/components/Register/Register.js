@@ -85,12 +85,12 @@ const Register = () => {
             <p>What happened</p>
           </div>
           <div className='header_main_content'>
-            <a href='#'>INTRODUCTION</a>
-            <a href='#'>SOLUTION</a>
-            <a href='#'>RATE PLAN</a>
-            <a href="#">|</a>
+            <a href='#introduction'>INTRODUCTION</a>
+            <a href='#solution'>SOLUTION</a>
+            <a href='#rateplan'>RATE PLAN</a>
+            <a href="#space">|</a>
             <Link to='/Login'>LOGIN</Link>
-            <a href='#'>APPLY FOR FREE USE</a>
+            <a href='#apply'>APPLY FOR FREE USE</a>
           </div>
         </div>
       </div>

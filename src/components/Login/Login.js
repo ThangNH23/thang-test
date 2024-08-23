@@ -15,12 +15,12 @@ const Login = () => {
                         <p>What happened</p>
                     </div>
                     <div className='header_main_content'>
-                        <a href='#'>INTRODUCTION</a>
-                        <a href='#'>SOLUTION</a>
-                        <a href='#'>RATE PLAN</a>
-                        <a href='#'>|</a>
-                        <a href='#'>LOGIN</a>
-                        <a href='#'>APPLY FOR FREE USE</a>
+                        <a href='#introduction'>INTRODUCTION</a>
+                        <a href='#solution'>SOLUTION</a>
+                        <a href='#rateplan'>RATE PLAN</a>
+                        <a href='#space'>|</a>
+                        <a href='#login'>LOGIN</a>
+                        <a href='#apply'>APPLY FOR FREE USE</a>
                     </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@ const Login = () => {
                         </div>
 
                         <div className='find-info'>
-                            <a href='#' className='find-email'>아이디(이메일)찾기</a>
-                            <a href='#' className='find-password'>비밀번호 찾기</a>
+                            <a href='#findemail' className='find-email'>아이디(이메일)찾기</a>
+                            <a href='#password' className='find-password'>비밀번호 찾기</a>
                         </div>
                     </div>
                 </div>
