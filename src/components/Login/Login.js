@@ -18,7 +18,7 @@ const Login = () => {
                         <a href='#'>INTRODUCTION</a>
                         <a href='#'>SOLUTION</a>
                         <a href='#'>RATE PLAN</a>
-                        <a>|</a>
+                        <a href='#'>|</a>
                         <a href='#'>LOGIN</a>
                         <a href='#'>APPLY FOR FREE USE</a>
                     </div>

@@ -88,7 +88,7 @@ const Register = () => {
             <a href='#'>INTRODUCTION</a>
             <a href='#'>SOLUTION</a>
             <a href='#'>RATE PLAN</a>
-            <a>|</a>
+            <a href="#">|</a>
             <Link to='/Login'>LOGIN</Link>
             <a href='#'>APPLY FOR FREE USE</a>
           </div>
